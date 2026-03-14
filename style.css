@@ -124,7 +124,7 @@ video{
 #scroller h4:hover{
     color: #95c11e;
 }
-#scroller-in{
+.scroller-in{
     display: inline-block;
     white-space:nowrap ;
     animation-name: scroller;
